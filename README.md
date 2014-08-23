@@ -1,4 +1,4 @@
-employees-java-app
+wage-calc-java-app
 ==================
 
 A simple Java GUI using Swing.
